@@ -1,7 +1,9 @@
 
+
 <div dir=auto>
   
-# שיעורי הרב שרקי
+# אפליקציית שיעורי הרב שרקי
+![Scene 1](https://user-images.githubusercontent.com/18702632/117863560-9175f080-b29c-11eb-87f2-06d66d37ba80.jpg)
 ## הקדמה
 אהלן :)
 
