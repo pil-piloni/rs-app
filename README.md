@@ -120,7 +120,7 @@ http://82.80.198.104/MidrashServices/api/Lessons?setId=22619&pageSize=26
 מקווה שיצא הסבר מובן. דברו איתי אם לא הבנתם משהו.
 
 מצ"ב דוגמא לRSS כזה:
-https://dl3.pushbulletusercontent.com/ZDGQKTnJwRK7N8r4YhvpeVOlwNFSVN6E/pirkeyavot.xml
+https://raw.githubusercontent.com/pil-piloni/rs-app/main/pirkeyavot.xml
 
 <img src="https://user-images.githubusercontent.com/18702632/117589485-738c7c80-b132-11eb-820a-4de84cdce9ae.jpg" width="300px">
 
