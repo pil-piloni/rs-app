@@ -117,7 +117,7 @@ http://82.80.198.104/MidrashServices/api/Lessons?setId=22619&pageSize=26
 
 וזהו בגדול :)
 
-מקווה שיצא הסבר מובן. דברו איתי אם לא הבנתם משהו.
+מקווה שההסבר מובן. דברו איתי אם לא הבנתם משהו.
 
 מצ"ב דוגמא לRSS כזה:
 https://raw.githubusercontent.com/pil-piloni/rs-app/main/pirkeyavot.xml
